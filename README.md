@@ -14,6 +14,6 @@ Web developer | Software engineer
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000"/>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/judebettlin?theme=dark&font=Rhodium%20Libre&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/thiruneshakJ?theme=chartreuse&font=Suwannaphum&ext=contest)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JUDE-BETTLIN-A&bg_color=171617&color=fafafa&line=13ec49&point=fbefef&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thiruneshak-j&bg_color=0f0f0f&color=fcfcfc&line=fbff00&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
